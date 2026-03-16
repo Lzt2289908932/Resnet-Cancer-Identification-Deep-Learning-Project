@@ -8,3 +8,4 @@ I kept the freeze training code inside train.py, when I was train this model wit
 So I give up this method, and train this model again with all layers.  
 As the final result, my best model was created at 36 epochs with acc 93.12%, this model early stopped at 51 epochs.  
 After evaulate, acc reached 93.25, which shows that this model is NOT overfitting.  
+To check the test result draft please find the png files in main branch
